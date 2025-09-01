@@ -16,6 +16,19 @@ Content-Type: application/json
   "message": "hello"
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 4. Chat with model selection only
 POST {{baseUrl}}/chat
 Content-Type: application/json
