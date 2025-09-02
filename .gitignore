@@ -37,3 +37,5 @@ out/
 
 src/main/resources/application.properties
 .env
+
+__bin__
